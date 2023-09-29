@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="22.css">
+<title>Популярні фільми 2022р. на Netflix</title>
+</head>
+<body>
+<h1> Популярні фільми 2022р. на Netflix </h1>
+<h2>
+<table> 
+<tr> 
+<td><img src="https://ua-images.kinorium.com/movie/1080/9097146.jpg?1661003231.jpg" width="300" height="400"> </td>
+<td><img src="7595.jpg" width="300" height="400" ></td>
+<td><img src="6454.jpg" width="300" height="400"> </td>
+<td><img src="6474.jpg" width="300" height="400"> </td>
+</tr>
+<tr>
+<td><center><p><a href="61.html">Снайпер.Білий ворон</a></p></center></td>
+<td><center><p><a href="62.html">Дівчина XX століття</a></p></center></td>
+<td><center><p><a href="63.html">Енола Холмс2</a></p></center></td>
+<td><center><p><a href="64.html">Сіра людина</a></p></center></td>
+</tr>
+<tr>
+<td><img src="9999.jpg" width="300" height="400"> </td>
+<td><img src="8888.jpg" width="300" height="400" ></td>
+<td><img src="5555.jpg" width="300" height="400"> </td>
+<td><img src="6666.jpg" width="300" height="400"> </td>
+</tr>
+<tr>
+<td><center><p><a href="65.html">Проєкт "Адам"</a></p></center></td>
+<td><center><p><a href="66.html">Після.Довго і щасливо</a></p></center></td>
+<td><center><p><a href="67.html">Пурпурові серця</a></p></center></td>
+<td><center><p><a href="68.html">Дорога до НБА</a></p></center></td>
+</tr>
+</table>
+</body>
+</html>
